@@ -35,7 +35,7 @@ $config = array(
 		)
 	),
 	//reglas para el log in
-	'usuarios/validar' => array(//nombre del metodo que las utiliza
+	'usuarios/validar' => array(
 		array(
 		'field' => 'usuario',
 		'label' => 'usuario',
@@ -46,6 +46,40 @@ $config = array(
 		'label' => 'contraseña',
 		'rules' => 'required'
 		)
-	)
+	),
+	'articulos/procesar_ok' => array(
+		array(
+		'field' => 'calle',
+		'label' => 'el campo es requerido',
+		'rules' => 'required'
+		),
+		array(
+		'field' => 'altura',
+		'label' => 'el campo es requerido',
+		'rules' => 'required'
+		),
+		
+	),
+	'admin/actualizar_ok' => array(
+		array(
+			'field' => 'valores[]',
+			'label' => 'el campo es requerido',
+			'rules' => 'required'
+			),
+		array(
+		'field' => 'producto[]',
+		'label' => 'el campo es requerido',
+		'rules' => 'required'
+		),
+		array(
+		'field' => 'precio[]',
+		'label' => 'el campo es requerido',
+		'rules' => 'required'
+		),
+		
+	),
+	
+	
+	
 );
 ?>

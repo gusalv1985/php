@@ -1,0 +1,220 @@
+#encabezado{
+    background-color: #3B5998;
+    border: 1px;
+    text-align: center;
+    color: white;
+    
+}
+#pie{
+    background-color: #3B5998;
+    border: 1px;
+    text-align: center;
+    color: white;
+    clear: both;
+
+}
+
+#id_1.caja{
+    
+    display:flex;
+   align-items: center;
+   justify-content: center;
+    background-color: #FF2D2D;
+    font-size:140px;
+    font-family:  Helvetica;
+    font-weight: bold;
+    width: 32%;
+    height: 50%;
+    float: left;
+    border-style: solid;
+    border-width: 3px;
+}
+#id_1.caja:hover{
+    border-color: yellow;
+    border-width: 3px;
+    cursor: pointer;
+    color:white
+
+}
+#id_2.caja{
+    font-size:140px;
+    font-family:  Helvetica;
+    font-weight: bold;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #FFFFFF;
+    text-align: center;
+    width: 32%;
+    height: 50%;
+    float: left;
+    border-style: solid;
+    border-width: 3px;
+}
+#id_2.caja:hover{
+    border-color: yellow;
+    border-width: 3px;
+    cursor: pointer;
+    color:cyan
+
+}
+#id_3.caja{
+    font-size:140px;
+    font-family:  Helvetica;
+    font-weight: bold;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #FF2D2D;
+    text-align: center;
+
+    width: 32%;
+    height: 50%;
+    float: left;
+    border-style: solid;
+    border-width: 3px;
+}
+#id_3.caja:hover{
+    border-color: yellow;
+    border-width: 3px;
+    cursor: pointer;
+    color:white
+
+}
+#id_4.caja{
+    font-size:100px;
+    font-family:  Helvetica;
+    font-weight: bold;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    background-color:#FFFFFF;
+    text-align: center;
+ 
+    width: 32%;
+    height: 50%;
+    float: left;
+    border-style: solid;
+    border-width: 3px;
+}
+#id_4.caja:hover{
+    border-color: yellow;
+    border-width: 3px;
+    cursor: pointer;
+    color:cyan
+
+}
+#id_5.caja{
+    font-size:120px;
+    font-family:  Helvetica;
+    font-weight: bold;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #FF2D2D;
+    text-align: center;
+ 
+    width: 32%;
+    height: 50%;
+    float: left;
+    border-style: solid;
+    border-width: 3px;
+}
+#id_5.caja:hover{
+    border-color: yellow;
+    border-width: 3px;
+    cursor: pointer;
+    color:white
+
+}
+#id_6.caja{
+    font-size:100px;
+    font-family:  Helvetica;
+    font-weight: bold;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    background-color:#FFFFFF;
+    text-align: center;
+        width: 32%;
+    height: 50%;
+    float: left;
+    border-style: solid;
+    border-width: 3px;
+}
+#id_6.caja:hover{
+    border-color: yellow;
+    border-width: 3px;
+    cursor: pointer;
+    color:cyan
+
+}
+#id_7.caja{
+    font-size:120px;
+    font-family:  Helvetica;
+    font-weight: bold;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #FF2D2D;
+    text-align: center;
+  
+    width: 32%;
+    height: 50%;
+    float: left;
+    border-style: solid;
+    border-width: 3px;
+}
+#id_7.caja:hover{
+    border-color: yellow;
+    border-width: 3px;
+    cursor: pointer;
+    color:white
+
+}
+#id_8.caja{
+    font-size:100px;
+    font-family:  Helvetica;
+    font-weight: bold;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #FFFFFF;
+    text-align: center;
+
+    width: 32%;
+    height: 50%;
+    float: left;
+    border-style: solid;
+    border-width: 3px;
+}
+#id_8.caja:hover{
+    border-color: yellow;
+    border-width: 3px;
+    cursor: pointer;
+    color:cyan
+
+}
+#id_9.caja{
+    font-size:120px;
+    font-family:  Helvetica;
+    font-weight: bold;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #FF2D2D;
+    text-align: center;
+  
+    width: 32%;
+    height: 50%;
+    float: left;
+    border-style: solid;
+    border-width: 3px;
+}
+#id_9.caja:hover{
+    border-color: yellow;
+    border-width: 3px;
+    cursor: pointer;
+    color:white
+
+}

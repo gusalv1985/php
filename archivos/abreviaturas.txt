@@ -1,4 +1,0 @@
-XML = EXtensible Markup Language
-HTML = Hyper Text Markup Language
-PHP = PHP Hypertext Preprocessor
-AJAX = Asynchronous JavaScript and XML

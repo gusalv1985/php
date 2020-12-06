@@ -1,0 +1,82 @@
+body{
+    background-image: url("../imagenes/articulo.jpeg");
+
+}
+label{
+    box-shadow: 2px 2px 2px 1px rgba(20, 20, 20, 0.5);
+    border-radius: 15px;
+    padding: 10px;  
+    background-color: rgb(248, 192, 140);
+}
+input{
+    box-shadow: 2px 2px 2px 1px rgba(20, 20, 20, 0.5);
+    border-radius: 5px;
+    padding: 10px;
+}
+input:hover{
+    background-color: burlywood;
+    cursor: pointer;
+}
+.medioInput{
+    width: 50%;
+}
+.center{
+    width: 50%;
+    margin: auto;
+  
+}
+table{
+    background-color: rgb(243, 180, 128);
+    border-width:  4;
+    border-style: solid;
+}
+p{
+color: beige;
+}
+h5{
+    color:beige
+}
+.centerLabel{
+    text-align: center;
+    display: block;
+    align-content: center;
+    width: 20%;
+    margin: auto;
+  
+}
+.centrarBtn{
+    margin: auto;
+    display: block;
+    align-content: center;
+}
+.borde{
+    margin: auto;
+    width: 50%;
+    background-color: coral;
+    border: maroon;
+    border-width: 4;
+    border-style: solid;
+    padding-bottom: 1%;
+    margin-bottom: 70%;
+    margin-top: 2%;
+}
+.botones{
+    position: relative;
+    float: right;
+    margin-right: 10%;
+    
+}
+.boton{
+    position: relative;
+    float: right;
+    
+}
+
+.caja{
+    background-color: rgb(43, 97, 214);
+    opacity: 0.8;
+    padding: 1%;
+}
+
+
+
